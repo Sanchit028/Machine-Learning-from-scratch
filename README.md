@@ -1,6 +1,6 @@
 # Machine-Learning-from-scratch
 
-This repository provides a collection basic of machine learning algorithms implementation using SKLearn and also from scratch using Python. It is designed to offer a clear understanding of how these algorithms work under the hood. By avoiding any third-party machine learning libraries, the code focuses on fundamental concepts and techniques, making it ideal for students, educators, and machine learning enthusiasts who want to deepen their knowledge.
+This repository provides a collection of basic machine learning algorithms implemented using SKLearn and also from scratch using Python. It is designed to offer a clear understanding of how these algorithms work under the hood. By avoiding any third-party machine learning libraries, the code focuses on fundamental concepts and techniques, making it ideal for students, educators, and machine learning enthusiasts who want to deepen their knowledge. Note: Not every code is perfect. Actually Far from it! So if anyone can help me optimise those, please contact me! Thank you.
 
 ## Features
 #### Supervised Learning Algorithms:
