@@ -7,15 +7,14 @@ class MultiLR():
         self.n_iters=n_iters
         self.coefs=[]
         self.costs = []
-        pass
-    
+
     def predict(self, X):
         return X @ self.coefs  #Matrix Multiplication of Coefficients and the test dataset
-    
+
     def cost(self, X, y):
         return ((y - (X @ self.coefs))**2).mean()  #Mean Square Error
         # MSE Formula = Mean(y - (X * Co-efficients)^2)
-    
+
     def fit(self, X, y, print_cost = False):
         M, N = X.shape
         
