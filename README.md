@@ -4,10 +4,10 @@ This repository provides a collection of basic machine learning algorithms imple
 
 ## Features
 #### Supervised Learning Algorithms:
-- Single Variable Linear Regression
+- Single Variable Linear Regression [🔗]([https://link-url-here.org](https://github.com/Sanchit028/Machine-Learning-from-scratch/tree/main/01.%20Single%20Variable%20Linear%20Regression))
 - Multi-Variable Linear Regression
 - Logistic Regression
-- Decision Trees
+- Decision Tree Classifier
 - Support Vector Machines (SVM)
 - K-Nearest Neighbors (KNN)
 - Naive Bayes
