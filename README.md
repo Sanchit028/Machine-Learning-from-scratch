@@ -7,7 +7,7 @@ This repository provides a collection of basic machine learning algorithms imple
 - Single Variable Linear Regression
 - Multi-Variable Linear Regression
 - Logistic Regression
-- Decision Trees
+- Decision Tree Classifier
 - Support Vector Machines (SVM)
 - K-Nearest Neighbors (KNN)
 - Naive Bayes
